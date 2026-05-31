@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b980f1fb-dd6b-455b-ae9f-3a1c02912122">
+  <name>Магазин</name>
+  <synonym>
+    <key>ru</key>
+    <value>Магазин</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4eb12180-fca0-4b3b-8d5f-8c82ea03a8d3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="66ce2f26-4062-419f-a1f3-d802eb608eda"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="9d705b23-8716-41cd-831c-1c41b9bb1cb5"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="91c04243-c88a-4636-8636-8d642ae9ef87"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="2b394ca2-f5e2-4a11-be73-15a8d069289c"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6e7fe84e-09ab-4d6f-a6f0-2ca048254399"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="a9ea3a07-086e-4333-ac24-3298074dd46f"/>
+  <configurationExtensionCompatibilityMode>8.3.26</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.26</compatibilityMode>
+  <languages uuid="aae86249-f76b-4fcc-ab4a-0500a7b76652">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Контрагент</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.ПриемНаРаботу</documents>
+</mdclass:Configuration>

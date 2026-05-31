@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "settings": {
+    "begin-transaction": {
+      "enabled": true
+    },
+    "rollback-transaction": {
+      "enabled": true
+    },
+    "commit-transaction": {
+      "enabled": true
+    }
+  }
+}
