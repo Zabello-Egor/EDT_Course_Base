@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8d7bc0a-0370-4d45-be17-ff35705aaa4b">
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8d7bc0a-0370-4d45-be17-ff35705aaa4b">
   <producedTypes>
     <selectionType typeId="38167ec8-e768-4e4a-b8bc-1daa6c5ecb46" valueTypeId="40406b30-379f-4160-9e2c-0ff3a77d31ea"/>
     <listType typeId="b3d4ff0f-753b-4629-ac03-8917f55c2c89" valueTypeId="f4cc8d07-2ec9-48b3-a4e2-2e948e216046"/>
@@ -17,4 +17,20 @@
   <useStandardCommands>true</useStandardCommands>
   <editType>InDialog</editType>
   <dataLockControlMode>Managed</dataLockControlMode>
+  <dimensions uuid="b1b8ed50-e875-43c8-b758-49d282df3af0">
+    <name>номенклатура</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номенклатура</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Номенклатура</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
 </mdclass:InformationRegister>
