@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8d7bc0a-0370-4d45-be17-ff35705aaa4b">
+  <producedTypes>
+    <selectionType typeId="38167ec8-e768-4e4a-b8bc-1daa6c5ecb46" valueTypeId="40406b30-379f-4160-9e2c-0ff3a77d31ea"/>
+    <listType typeId="b3d4ff0f-753b-4629-ac03-8917f55c2c89" valueTypeId="f4cc8d07-2ec9-48b3-a4e2-2e948e216046"/>
+    <managerType typeId="2fe92876-99a0-418e-89a2-b5f685dcd447" valueTypeId="9610e57f-d37d-4db0-8b86-d1617953f960"/>
+    <recordSetType typeId="68502346-d31f-4ab3-af6b-f17d3a9cbd3c" valueTypeId="6b1edf5d-0694-46f9-8e6e-b980a0f3d1b9"/>
+    <recordKeyType typeId="9b6ab39b-a36c-4480-99d8-b471a9752778" valueTypeId="987962f2-eb3b-44ae-9c21-9a438b842cb1"/>
+    <recordType typeId="4c8e5c2e-a2c9-4455-9e37-b3389a09bdb5" valueTypeId="b3a2f12d-73b2-43b4-8392-9ed9f85f2aa3"/>
+    <recordManagerType typeId="4aa8d782-130a-493d-bc41-1ebec861ffaf" valueTypeId="e9cddd8e-79b3-4138-90a2-a909ddaee619"/>
+  </producedTypes>
+  <name>КадроваяИстория</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кадровая история</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:InformationRegister>

@@ -48,4 +48,5 @@
   <documents>Document.ПеремещениеПоСкладам</documents>
   <documents>Document.ПоступлениеТоваров</documents>
   <documents>Document.ПриемНаРаботу</documents>
+  <informationRegisters>InformationRegister.КадроваяИстория</informationRegisters>
 </mdclass:Configuration>
