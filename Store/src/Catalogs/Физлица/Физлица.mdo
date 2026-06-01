@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f3d10a8f-5853-407a-9dd1-f475b7e7535f">
+  <producedTypes>
+    <objectType typeId="2e598412-28ee-489f-8f77-292b055757e5" valueTypeId="b6d8620e-4a8d-461a-bc6c-ae2d2cb1d180"/>
+    <refType typeId="290acf62-634a-494f-b07b-7b5451579177" valueTypeId="5aca66bb-da05-438a-b124-448d7dbed99e"/>
+    <selectionType typeId="84412539-4103-4976-956f-414e43539382" valueTypeId="80a13982-1257-4c4c-99f1-b84cc42de936"/>
+    <listType typeId="ddd71960-bfa6-4838-9b12-59dca4302fb1" valueTypeId="6a0e4446-1f7a-4c49-aeef-09e1b255d311"/>
+    <managerType typeId="d7fc7cff-7dfd-4db1-9bd8-c7ac341444bb" valueTypeId="b3ae2337-24f2-4b86-b524-2336e67a2bb0"/>
+  </producedTypes>
+  <name>Физлица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Физлица</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Физлица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Физлица.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

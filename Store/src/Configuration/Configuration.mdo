@@ -43,7 +43,9 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Физлица</catalogs>
   <documents>Document.КадровоеПеремещение</documents>
+  <documents>Document.ПеремещениеПоСкладам</documents>
   <documents>Document.ПоступлениеТоваров</documents>
   <documents>Document.ПриемНаРаботу</documents>
 </mdclass:Configuration>

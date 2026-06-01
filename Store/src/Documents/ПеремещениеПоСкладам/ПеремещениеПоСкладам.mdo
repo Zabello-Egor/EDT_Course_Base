@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3f4a7b6c-94cd-49a8-bcfe-39fb4762c57f">
+  <producedTypes>
+    <objectType typeId="154ea237-e33f-404f-a9e2-7d90e5ad2e77" valueTypeId="93a6cb8d-4003-4188-9bf6-ec11fad54e18"/>
+    <refType typeId="7f3697fd-9fb5-4d06-8bc8-f5e9370fd73d" valueTypeId="7857234b-f128-4360-91a5-9ff0244eef2a"/>
+    <selectionType typeId="711e7900-a320-49e2-8baf-2b241f856b9a" valueTypeId="866a050b-0097-4733-b751-5d53f62a3896"/>
+    <listType typeId="bcad051b-2240-4d02-b338-d9c302e48acb" valueTypeId="211a6938-34de-4fef-8e3e-db25d50314e6"/>
+    <managerType typeId="29369ded-aba1-491f-a381-885094a46f2f" valueTypeId="ae5b0710-5d69-4a34-8d20-f88b6691127b"/>
+  </producedTypes>
+  <name>ПеремещениеПоСкладам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Перемещение по складам</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ПеремещениеПоСкладам.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
